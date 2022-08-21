@@ -1,0 +1,82 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1661102019835,3764,HTTP Request about_credit_ratings,200,OK,Reports 6-1,text,true,,61163,195,1,7,https://www.nrbcommercialbank.com/about/credit_ratings,3303,0,3005
+1661102019835,3771,HTTP Request SME,200,OK,Nrbc_our_banking 2-1,text,true,,66332,192,1,7,https://www.nrbcommercialbank.com/about/banking/sme,3303,0,3005
+1661102019835,3775,HTTP Request about_irs,200,OK,Investor relations 7-1,text,true,,49584,184,1,7,https://www.nrbcommercialbank.com/about/irs,3303,0,3005
+1661102019835,3850,HTTP Request product/shikkhaguru,200,OK,Nrbc_products 3-1,text,true,,56724,194,1,7,https://www.nrbcommercialbank.com/product/shikkhaguru,3365,0,3012
+1661102019835,3852,HTTP Request vision,200,OK,Nrbc_about 1-1,text,true,,57396,195,1,7,https://www.nrbcommercialbank.com/about/mission_vision,3357,0,3012
+1661102023608,277,HTTP Request corporate_banking,200,OK,Nrbc_our_banking 2-1,text,true,,68852,153,1,7,https://www.nrbcommercialbank.com/about/banking/corporate,264,0,0
+1661102023612,274,HTTP Request_about_nrbcb_foundation,200,OK,Investor relations 7-1,text,true,,59636,152,1,7,https://www.nrbcommercialbank.com/about/nrbcb_foundation,260,0,0
+1661102023686,263,HTTP Request product/saving,200,OK,Nrbc_products 3-1,text,true,,55057,148,1,7,https://www.nrbcommercialbank.com/product/saving_all,257,0,0
+1661102023688,317,HTTP Request_about,200,OK,Nrbc_about 1-1,text,true,,61636,140,1,7,https://www.nrbcommercialbank.com/about/info,265,0,0
+1661102023605,503,HTTP Request_about_reports,200,OK,Reports 6-1,text,true,,105117,143,1,7,https://www.nrbcommercialbank.com/about/reports,259,0,0
+1661102023885,315,HTTP Request_NrbBanking,200,OK,Nrbc_our_banking 2-1,text,true,,96595,147,1,7,https://www.nrbcommercialbank.com/about/banking/nrb,263,0,0
+1661102023949,499,HTTP product/scheme,200,OK,Nrbc_products 3-1,text,true,,61928,148,1,7,https://www.nrbcommercialbank.com/product/scheme_all,461,0,0
+1661102024005,550,HTTP Request Retailbanking,200,OK,Nrbc_about 1-1,text,true,,90048,150,1,7,https://www.nrbcommercialbank.com/about/banking/retail,490,0,0
+1661102024109,604,HTTP Request about_reports,200,OK,Reports 6-1,text,true,,105117,143,1,7,https://www.nrbcommercialbank.com/about/reports,530,0,0
+1661102024202,773,HTTP Request agent/services,200,OK,Nrbc_our_banking 2-1,text,true,,71887,144,1,6,https://www.nrbcommercialbank.com/agent/services,715,0,0
+1661102019835,6077,HTTP Request news_all,200,OK,News room 4-1,text,true,,483343,183,1,6,https://www.nrbcommercialbank.com/news/all,3379,0,3005
+1661102024976,1116,HTTP Request sms,200,OK,Nrbc_our_banking 2-1,text,true,,56550,133,1,6,https://www.nrbcommercialbank.com/sms,836,0,0
+1661102024450,1783,HTTP Request product/all,200,OK,Nrbc_products 3-1,text,true,,66084,145,1,6,https://www.nrbcommercialbank.com/product/all/fdr,729,0,0
+1661102024556,1760,HTTP Request green bank,200,OK,Nrbc_about 1-1,text,true,,55037,149,1,6,https://www.nrbcommercialbank.com/about/green_banking,732,0,0
+1661102026093,555,HTTP Request  misscall,200,OK,Nrbc_our_banking 2-1,text,true,,54078,183,1,6,https://www.nrbcommercialbank.com/misscall,512,0,0
+1661102025913,873,HTTP Request_news_corona,200,OK,News room 4-1,text,true,,96225,141,1,6,https://www.nrbcommercialbank.com/news/corona,560,0,0
+1661102026232,613,HTTP Request product/current,200,OK,Nrbc_products 3-1,text,true,,62666,149,1,6,https://www.nrbcommercialbank.com/product/all/current,563,0,0
+1661102026316,675,HTTP Request chairmen,200,OK,Nrbc_about 1-1,text,true,,55745,153,1,6,https://www.nrbcommercialbank.com/about/msg_from_chairman,631,0,0
+1661102026649,710,HTTP Request planet,200,OK,Nrbc_our_banking 2-1,text,true,,66976,136,1,6,https://www.nrbcommercialbank.com/planet,707,0,0
+1661102019835,7542,HTTP Request Branches_branch_list,200,OK,Service point 5-1,text,true,,1095178,195,1,6,https://www.nrbcommercialbank.com/Branches/branch_list,3379,0,3018
+1661102026786,634,HTTP Request home_awareness,200,OK,News room 4-1,text,true,,51733,144,1,6,https://www.nrbcommercialbank.com/home/awareness,594,0,0
+1661102026846,746,HTTP Request product/snd,200,OK,Nrbc_products 3-1,text,true,,62533,190,1,6,https://www.nrbcommercialbank.com/product/all/snd,585,0,0
+1661102026992,610,"HTTP Request Md,CEO",200,OK,Nrbc_about 1-1,text,true,,57460,147,1,6,https://www.nrbcommercialbank.com/about/msg_from_md,608,0,0
+1661102027360,471,HTTP Request retail banking,200,OK,Nrbc_our_banking 2-1,text,true,,90048,150,1,6,https://www.nrbcommercialbank.com/about/banking/retail,325,0,0
+1661102027377,680,HTTP Request_Branches_islamic_location,200,OK,Service point 5-1,text,true,,302138,155,1,5,https://www.nrbcommercialbank.com/Branches/islamic_location,459,0,0
+1661102027592,591,HTTP Request loans_Pre_Shipment_Export_Finance,200,OK,Nrbc_products 3-1,text,true,,50697,212,1,5,https://www.nrbcommercialbank.com/loans/all/Pre_Shipment_Export_Finance,551,0,0
+1661102027602,725,HTTP Request board of directors,200,OK,Nrbc_about 1-1,text,true,,80643,152,1,5,https://www.nrbcommercialbank.com/about/Boad_Of_Director,640,0,0
+1661102027421,914,HTTP Request news_vedio,200,OK,News room 4-1,text,true,,63120,140,1,5,https://www.nrbcommercialbank.com/news/vedio,635,0,0
+1661102028057,501,HTTP Request Branches_atm_location,200,OK,Service point 5-1,text,true,,95141,151,1,5,https://www.nrbcommercialbank.com/Branches/atm_location,477,0,0
+1661102028184,468,HTTP Request loans/education_loan,200,OK,Nrbc_products 3-1,text,true,,54716,199,1,5,https://www.nrbcommercialbank.com/loans/all/education_loan,437,0,0
+1661102028336,514,HTTP Request Shuddhachar,200,OK,News room 4-1,text,true,,49622,141,1,5,https://www.nrbcommercialbank.com/Shuddhachar,476,0,0
+1661102028559,546,HTTP Request Branches_brta_location,200,OK,Service point 5-1,text,true,,70859,152,1,4,https://www.nrbcommercialbank.com/Branches/brta_location,486,0,0
+1661102028328,790,HTTP Request shareholders,200,OK,Nrbc_about 1-1,text,true,,159458,148,1,4,https://www.nrbcommercialbank.com/about/shareholders,466,0,0
+1661102028653,638,HTTP Request loans_business_loan,200,OK,Nrbc_products 3-1,text,true,,55606,159,1,4,https://www.nrbcommercialbank.com/loans/all/nrbcb_business_loan,626,0,0
+1661102029106,571,HTTP Request Branches_land_registration_location,200,OK,Service point 5-1,text,true,,274987,165,1,4,https://www.nrbcommercialbank.com/Branches/land_registration_location,353,0,0
+1661102029119,603,HTTP Request commitee executive,200,OK,Nrbc_about 1-1,text,true,,58980,145,1,4,https://www.nrbcommercialbank.com/about/executive,570,0,0
+1661102029292,503,HTTP Request loans_nrbc_home_loan,200,OK,Nrbc_products 3-1,text,true,,58164,154,1,4,https://www.nrbcommercialbank.com/loans/all/nrbc_home_loan,458,0,0
+1661102029677,429,HTTP Request Branches_ad_branches,200,OK,Service point 5-1,text,true,,59759,150,1,4,https://www.nrbcommercialbank.com/Branches/ad_branches,379,0,0
+1661102029723,436,HTTP Request committee audit,200,OK,Nrbc_about 1-1,text,true,,61396,141,1,4,https://www.nrbcommercialbank.com/about/audit,384,0,0
+1661102029796,410,HTTP Request loans_auto_loan,200,OK,Nrbc_products 3-1,text,true,,57584,149,1,4,https://www.nrbcommercialbank.com/loans/all/auto_loan,374,0,0
+1661102030159,744,HTTP Request committee rmc,200,OK,Nrbc_about 1-1,text,true,,62410,139,1,4,https://www.nrbcommercialbank.com/about/rmc,712,0,0
+1661102030207,751,HTTP Request loans_machinery,200,OK,Nrbc_products 3-1,text,true,,52312,149,1,4,https://www.nrbcommercialbank.com/loans/all/machinery,717,0,0
+1661102030107,1621,HTTP Request Branches_agent_locations,200,OK,Service point 5-1,text,true,,530334,154,1,4,https://www.nrbcommercialbank.com/Branches/agent_locations,529,0,0
+1661102030904,1280,HTTP Request  committee management,200,OK,Nrbc_about 1-1,text,true,,121223,191,1,3,https://www.nrbcommercialbank.com/about/management,1182,0,0
+1661102030959,1267,HTTP Request loans_construction,200,OK,Nrbc_products 3-1,text,true,,51858,152,1,3,https://www.nrbcommercialbank.com/loans/all/construction,1227,0,0
+1661102032185,1928,HTTP Request committee divisional_head,200,OK,Nrbc_about 1-1,text,true,,118644,196,1,3,https://www.nrbcommercialbank.com/about/divisional_head,1562,0,0
+1661102032227,1952,HTTP Request loans_home,200,OK,Nrbc_products 3-1,text,true,,52042,144,1,3,https://www.nrbcommercialbank.com/loans/all/home,1624,0,0
+1661102034114,916,HTTP Request_head_office,200,OK,Nrbc_about 1-1,text,true,,58303,141,1,3,https://www.nrbcommercialbank.com/head_office,848,0,0
+1661102034179,894,HTTP Request loan_Personal_Vehicle_Finance,200,OK,Nrbc_products 3-1,text,true,,51547,164,1,2,https://www.nrbcommercialbank.com/loans/all/Personal_Vehicle_Finance,804,0,0
+1661102035073,383,HTTP Request loans_Financial_Obligation_Finance,200,OK,Nrbc_products 3-1,text,true,,50626,168,1,2,https://www.nrbcommercialbank.com/loans/all/Financial_Obligation_Finance,340,0,0
+1661102035456,926,HTTP Request loans_Pre_Shipment_Import_Finance,200,OK,Nrbc_products 3-1,text,true,,50612,167,1,2,https://www.nrbcommercialbank.com/loans/all/Pre_Shipment_Import_Finance,882,0,0
+1661102036383,1487,HTTP Request loans_Post_Shipment_Import_Finance,200,OK,Nrbc_products 3-1,text,true,,50696,168,1,2,https://www.nrbcommercialbank.com/loans/all//Post_Shipment_Import_Finance,1247,0,0
+1661102037870,1307,HTTP Request loans_Pre_Shipment_Export_Finance,200,OK,Nrbc_products 3-1,text,true,,50679,212,1,2,https://www.nrbcommercialbank.com/loans/all/Pre_Shipment_Export_Finance,1269,0,0
+1661102039178,1608,HTTP Request  loans_sme,200,OK,Nrbc_products 3-1,text,true,,50741,188,1,2,https://www.nrbcommercialbank.com/loans/all/sme,803,0,0
+1661102040798,1536,HTTP Request loans_agri,200,OK,Nrbc_products 3-1,text,true,,50430,144,1,2,https://www.nrbcommercialbank.com/loans/all/agri,982,0,0
+1661102042335,1606,HTTP Request loans_Guarantee_Finance,200,OK,Nrbc_products 3-1,text,true,,53674,198,1,2,https://www.nrbcommercialbank.com/loans/Guarantee_Finance,1055,0,0
+1661102043942,1385,HTTP Request loans_Agriculture_Finance,200,OK,Nrbc_products 3-1,text,true,,50574,204,1,2,https://www.nrbcommercialbank.com/loans/all/Agriculture_Finance,1124,0,0
+1661102045329,1657,HTTP Request_loans_green,200,OK,Nrbc_products 3-1,text,true,,50587,145,1,2,https://www.nrbcommercialbank.com/loans/all/green,1121,0,0
+1661102046987,1746,HTTP Request cards,200,OK,Nrbc_products 3-1,text,true,,60943,135,1,2,https://www.nrbcommercialbank.com/cards,1103,0,0
+1661102048735,1749,HTTP Request cards_offer,200,OK,Nrbc_products 3-1,text,true,,93209,141,1,2,https://www.nrbcommercialbank.com/cards/offer,1154,0,0
+1661102050485,1054,HTTP Request cards_EMIPartners,200,OK,Nrbc_products 3-1,text,true,,98234,147,1,2,https://www.nrbcommercialbank.com/cards/EMIPartners,695,0,0
+1661102051539,809,HTTP Request cards_Dispute_Resolution,200,OK,Nrbc_products 3-1,text,true,,56302,154,1,2,https://www.nrbcommercialbank.com/cards/Dispute_Resolution,805,0,0
+1661102052349,7071,HTTP Request assets_card.jpg,200,OK,Nrbc_products 3-1,bin,true,,3361911,150,1,2,https://www.nrbcommercialbank.com/assets/form/card.jpg,705,0,0
+1661102059420,2053,HTTP Request planet,200,OK,Nrbc_products 3-1,text,true,,67002,136,1,2,https://www.nrbcommercialbank.com/planet,686,0,0
+1661102061473,1347,HTTP Request ibanking,200,OK,Nrbc_products 3-1,text,true,,58714,138,1,2,https://www.nrbcommercialbank.com/ibanking,806,0,0
+1661102062820,1127,HTTP Request product_alamin,200,OK,Nrbc_products 3-1,text,true,,56059,144,1,2,https://www.nrbcommercialbank.com/product/alamin,838,0,0
+1661102063947,1179,HTTP Request about_utilities,200,OK,Nrbc_products 3-1,text,true,,55679,145,1,2,https://www.nrbcommercialbank.com/about/utilities,890,0,0
+1661102065128,1530,HTTP Request about_remittance,200,OK,Nrbc_products 3-1,text,true,,68095,191,1,2,https://www.nrbcommercialbank.com/about/remittance,933,0,0
+1661102066658,1366,HTTP Request  sms,200,OK,Nrbc_products 3-1,text,true,,56550,178,1,2,https://www.nrbcommercialbank.com/sms,1054,0,0
+1661102068024,1552,HTTP Request_misscall,200,OK,Nrbc_products 3-1,text,true,,54060,138,1,2,https://www.nrbcommercialbank.com/misscall,1269,0,0
+1661102069577,1088,HTTP Request_product_interest,200,OK,Nrbc_products 3-1,text,true,,81449,146,1,2,https://www.nrbcommercialbank.com/product/interest,1010,0,0
+1661102023887,105993,HTTP Request form,200,OK,Investor relations 7-1,text,true,,116305050,167,1,1,https://www.nrbcommercialbank.com/assets/form/NRBC_Bank_SB_IM_Final.pdf,252,0,0
+1661102129879,28358,HTTP Request assets_form/,200,OK,Investor relations 7-1,text,true,,31945475,232,1,1,https://www.nrbcommercialbank.com/assets/form/nrbcb_Trust_Deed_NRBC_Subordinated_Bond-1.pdf,776,0,527
+1661102158239,3634,HTTP Request_assets_form_IPO,200,OK,Investor relations 7-1,text,true,,4376907,166,1,1,https://www.nrbcommercialbank.com/assets/form/IPO_Fund_Utilization.pdf,250,0,0
+1661102161888,316,HTTP Request aabout_investor_report,200,OK,Investor relations 7-1,text,true,,60085,151,1,1,https://www.nrbcommercialbank.com/about/investor_report,309,0,0
+1661102162204,269,HTTP Request news_corona,200,OK,Investor relations 7-1,text,true,,96225,141,1,1,https://www.nrbcommercialbank.com/news/corona,259,0,0
